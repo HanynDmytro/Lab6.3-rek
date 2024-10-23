@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\AP\\LAB\\pr6\\pr6.3\\REK\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6660142-E669-4450-AC09-00D8B5741E82}|Project1\\Project1.vcxproj|D:\\Politeh\\AP\\LAB\\pr6\\pr6.3\\REK\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6660142-E669-4450-AC09-00D8B5741E82}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr6\\pr6.3\\REK\\Project1\\Project1\\Source.cpp",
+              "RelativeDocumentMoniker": "Project1\\Source.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr6\\pr6.3\\REK\\Project1\\Project1\\Source.cpp*",
+              "RelativeToolTip": "Project1\\Source.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T21:03:44.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
